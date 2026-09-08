@@ -1,16 +1,35 @@
-## Hi there 👋
+# 📺 Rima TV
 
-<!--
-**RimaTV/RimaTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Live TV channels from around the world, always with you.
 
-Here are some ideas to get you started:
+Rima TV is a modern IPTV platform that brings **live television channels from around the world** together in one simple and easy-to-use experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Discover channels from different countries  
+📂 Browse channels by country and category  
+📺 Watch live TV directly from the app  
+⭐ Explore featured and popular channels  
+🔎 Quickly find the channels you are looking for  
+🌓 Enjoy a comfortable experience in Light or Dark mode  
+📱 Use it on mobile, tablet, desktop and TV  
+
+---
+
+## ✨ Our Goal
+
+Our goal is simple:
+
+**Make watching and discovering live TV easier, faster, and more accessible — wherever you are.**
+
+---
+
+## 🚀 Rima TV
+
+A world of television, in one place.
+
+**Live TV channels from around the world, always with you.** 📺🌍
+
+---
+
+⭐ If you like Rima TV, consider supporting the project by giving it a star.
+
+Made with ❤️
