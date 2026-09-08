@@ -1,1 +1,6 @@
-{"app_name":"Rima TV","version":"1.0.0","build_number":"1","package_name":"ip_tv"}
+{
+  "app_name": "Rima TV",
+  "version": "1.0.0",
+  "build_number": "1",
+  "package_name": "ip_tv"
+}
