@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <base href="/RimaTV/">
+  <base href="/">
 
   <meta charset="UTF-8">
 
@@ -22,11 +22,11 @@
   <!-- Responsive layout -->
   <meta
     name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover"
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover"
   >
 
   <!-- Browser / PWA theme -->
-  <meta name="theme-color" content="#FFC107">
+  <meta name="theme-color" content="#000000">
 
   <!-- PWA -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -36,7 +36,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta
     name="apple-mobile-web-app-status-bar-style"
-    content="black"
+    content="black-translucent"
   >
   <meta name="apple-mobile-web-app-title" content="Rima TV">
 
@@ -45,7 +45,6 @@
     rel="apple-touch-icon"
     href="icons/icon-192.png"
   >
-
 
   <!-- Favicon -->
   <link
@@ -67,16 +66,44 @@
     property="og:description"
     content="Live TV channels from around the world, always with you."
   >
-  <meta property="og:image" content="icons/icon-512.png">
+  <meta
+    property="og:image"
+    content="icons/icon-512.png"
+  >
 
   <title>Rima TV</title>
+
+  <!-- HLS.js -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/hls.js@1"
+    type="application/javascript"
+  ></script>
+
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background: #000000;
+      overflow: hidden;
+    }
+
+    #flutter_host {
+      position: fixed;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
 </head>
 
 <body>
+  <!-- Flutter -->
   <script
     src="flutter_bootstrap.js"
     async
   ></script>
 </body>
 </html>
-
