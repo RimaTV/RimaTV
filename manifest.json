@@ -9,8 +9,8 @@
   "display": "standalone",
   "orientation": "natural",
 
-  "background_color": "#FFC107",
-  "theme_color": "#FFC107",
+  "background_color": "#0F0F0F",
+  "theme_color": "#006ba6",
 
   "lang": "en",
   "dir": "ltr",
